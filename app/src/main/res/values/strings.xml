@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ActivityResult</string>
+    <string name="title_color">Цвет</string>
+    <string name="title_align">Выравнивание</string>
+</resources>
